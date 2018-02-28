@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "NuGet本地服务器", "http://localhost:5856", "{4D891F1D-5F26-4E45-9F76-CCA435F4EDE4}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_5856"
+		Debug.AspNetCompiler.PhysicalPath = "E:\姚新\畅想\代码\Share\C#\NuGet本地服务器\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_5856\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_5856"
+		Release.AspNetCompiler.PhysicalPath = "E:\姚新\畅想\代码\Share\C#\NuGet本地服务器\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_5856\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "E:\姚新\畅想\代码\Share\C#\NuGet本地服务器\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D891F1D-5F26-4E45-9F76-CCA435F4EDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D891F1D-5F26-4E45-9F76-CCA435F4EDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
